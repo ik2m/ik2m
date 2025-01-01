@@ -4,6 +4,6 @@ https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-wr
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="logo_dark.svg">
-    <img src="logo.svg"width="25%"/>
+    <img src="logo.svg"width="640px"/>
   </picture>
 </p>
